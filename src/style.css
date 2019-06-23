@@ -1,0 +1,25 @@
+#container {
+  background-color: white;
+}
+
+svg {
+  position: absolute;
+  left: 15%;
+}
+
+#title {
+  font-weight: bold;
+  font-size: 35px;
+}
+
+#title, #description {
+  text-align: center;
+}
+
+#legend .tick line{
+  display: none;
+}
+
+#tooltip {
+  position: absolute;
+}
